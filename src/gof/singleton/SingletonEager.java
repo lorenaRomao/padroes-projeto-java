@@ -1,9 +1,7 @@
 package gof.singleton;
 
 /**
- * Singleton "apressado".
- * 
- * @author falvojr
+ * Singleton "apressado"
  */
 public class SingletonEager {
 
