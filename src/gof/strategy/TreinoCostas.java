@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.strategy;
+package gof.strategy;
 
 public class TreinoCostas implements Comportamento {
 
