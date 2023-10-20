@@ -1,8 +1,8 @@
 
 package gof.facade;
 
-import subsistema1.crm.CrmService;
-import subsistema2.cep.CepApi;
+import subsistema.CrmService;
+import subsistema2.CepApi;
 
 public class Fpackage
 
