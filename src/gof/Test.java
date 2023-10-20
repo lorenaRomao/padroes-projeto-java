@@ -1,15 +1,15 @@
 
-packagepackage one.digitalinnovation.gof;
+package gof;
 
-import one.digitalinnovation.gof.facade.Facade;
-import one.digitalinnovation.gof.singleton.SingletonEager;
-import one.digitalinnovation.gof.singleton.SingletonLazy;
-import one.digitalinnovation.gof.singleton.SingletonLazyHolder;
-import one.digitalinnovation.gof.strategy.Comportamento;
-import one.digitalinnovation.gof.strategy.TreinoPeito;
-import one.digitalinnovation.gof.strategy.TreinoCostas;
-import one.digitalinnovation.gof.strategy.TreinoPerna;
-import one.digitalinnovation.gof.strategy.Aluno;
+import gof.facade.Facade;
+import gof.singleton.SingletonEager;
+import gof.singleton.SingletonLazy;
+import gof.singleton.SingletonLazyHolder;
+import gof.strategy.Comportamento;
+import gof.strategy.TreinoPeito;
+import gof.strategy.TreinoCostas;
+import gof.strategy.TreinoPerna;
+import gof.strategy.Aluno;
 
 public class Test {
 
